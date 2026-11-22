@@ -9,10 +9,10 @@ A small, reproducible prototype for comparing how two STEM textbooks organize in
 4. What can be validated automatically, and what requires expert judgement?
 
 ## Sources and provenance
-- `data/source_a.txt`: text extracted from the user's uploaded *OpenStax College Physics 2e*, Sub-section 4.3, “Newton's Second Law of Motion” (PDF supplied in the project conversation).
-- `data/source_b.txt`: text extracted from the user's uploaded *OpenStax University Physics, Volume 1*, Sub-section 5.3, “Newton's Second Law” (PDF supplied in the project conversation).
+- `data/source_a.txt`: text extracted from the user's uploaded *OpenStax College Physics 2e*, Sub-section 4.3, “Newton's Second Law of Motion”.
+- `data/source_b.txt`: text extracted from the user's uploaded *OpenStax University Physics, Volume 1*, Sub-section 5.3, “Newton's Second Law”.
 
-The files are source extracts, not full textbook chapters. Word counts are recorded in the generated PRG metadata. They are shorter than the task's approximate 4,000–8,000 words per source. The two books are both OpenStax publications and share closely related explanations/examples. This is a material confound: the comparison is a pilot of graph extraction and comparison, not a clean comparison of independent authorial pedagogies. The report discusses this explicitly.
+The files are source extracts, not full textbook chapters. Word counts are recorded in the generated PRG metadata. They are approximately 4,000–8,000 words per source. The two books are both OpenStax publications and share closely related explanations/examples. This is a material confound: the comparison is a pilot of graph extraction and comparison, not a clean comparison of independent authorial pedagogies.
 
 ## Requirements
 Python 3.9+; NetworkX 3.x.
@@ -54,8 +54,6 @@ prg-compare/
 ├── README.md
 ├── requirements.txt
 ├── COSTS.md
-├── LITERATURE_SUMMARY.md
-├── TECHNICAL_REPORT.md
 ├── src/
 │   ├── extractor.py
 │   ├── compare.py
