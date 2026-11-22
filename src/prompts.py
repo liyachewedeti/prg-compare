@@ -1,0 +1,2 @@
+"""Prompt templates reserved for an optional future LLM extractor."""
+EXTRACTION_SYSTEM = """Extract a pedagogical reasoning graph from a textbook passage. Return valid JSON only. Nodes have id, type (concept/example/motivation/formalism/exercise/connection), label, description, evidence, and position. Edges have source, target, type (prerequisite_of/illustrates/formalizes/motivates/leads_to), and evidence. Do not infer unsupported relations. Maximum 40 nodes. Preserve source order."""

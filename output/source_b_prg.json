@@ -1,0 +1,360 @@
+{
+  "source": "openstax_university_physics_volume_1_section_5_3",
+  "concept_domain": "Newton's Second Law",
+  "nodes": [
+    {
+      "id": "force",
+      "type": "concept",
+      "label": "Force",
+      "description": "202 5 • Newton's Laws of Motion the net force becomes nonzero.",
+      "evidence": "202 5 • Newton's Laws of Motion the net force becomes nonzero.",
+      "position": 0
+    },
+    {
+      "id": "motion",
+      "type": "concept",
+      "label": "Change in motion",
+      "description": "202 5 • Newton's Laws of Motion the net force becomes nonzero.",
+      "evidence": "202 5 • Newton's Laws of Motion the net force becomes nonzero.",
+      "position": 0
+    },
+    {
+      "id": "net_force",
+      "type": "concept",
+      "label": "Net external force",
+      "description": "202 5 • Newton's Laws of Motion the net force becomes nonzero.",
+      "evidence": "202 5 • Newton's Laws of Motion the net force becomes nonzero.",
+      "position": 0
+    },
+    {
+      "id": "acceleration",
+      "type": "concept",
+      "label": "Acceleration",
+      "description": "Realize that a net force of zero means that an object is either at rest or moving with constant velocity, that is, it is not accelerating.",
+      "evidence": "Realize that a net force of zero means that an object is either at rest or moving with constant velocity, that is, it is not accelerating.",
+      "position": 1
+    },
+    {
+      "id": "velocity",
+      "type": "concept",
+      "label": "Velocity",
+      "description": "Realize that a net force of zero means that an object is either at rest or moving with constant velocity, that is, it is not accelerating.",
+      "evidence": "Realize that a net force of zero means that an object is either at rest or moving with constant velocity, that is, it is not accelerating.",
+      "position": 1
+    },
+    {
+      "id": "example_1",
+      "type": "example",
+      "label": "Illustrative application 1",
+      "description": "What do you suppose happens when the car accelerates?",
+      "evidence": "What do you suppose happens when the car accelerates?",
+      "position": 2
+    },
+    {
+      "id": "example_2",
+      "type": "example",
+      "label": "Illustrative application 2",
+      "description": "Significance As this example shows, there are two kinds of equilibrium.",
+      "evidence": "Significance As this example shows, there are two kinds of equilibrium.",
+      "position": 4
+    },
+    {
+      "id": "example_3",
+      "type": "example",
+      "label": "Illustrative application 3",
+      "description": "In (a), the car is at rest; we say it is in static equilibrium.",
+      "evidence": "In (a), the car is at rest; we say it is in static equilibrium.",
+      "position": 5
+    },
+    {
+      "id": "example_4",
+      "type": "example",
+      "label": "Illustrative application 4",
+      "description": "In (b), the forces on the car are balanced, but the car is moving; we say that it is in dynamic equilibrium.",
+      "evidence": "In (b), the forces on the car are balanced, but the car is moving; we say that it is in dynamic equilibrium.",
+      "position": 6
+    },
+    {
+      "id": "example_5",
+      "type": "example",
+      "label": "Illustrative application 5",
+      "description": "CHECK YOUR UNDERSTANDING 5.2 A skydiver opens their parachute, and shortly thereafter, they are moving at constant velocity.",
+      "evidence": "CHECK YOUR UNDERSTANDING 5.2 A skydiver opens their parachute, and shortly thereafter, they are moving at constant velocity.",
+      "position": 9
+    },
+    {
+      "id": "exercise_1",
+      "type": "exercise",
+      "label": "Practice/check question 1",
+      "description": "CHECK YOUR UNDERSTANDING 5.2 A skydiver opens their parachute, and shortly thereafter, they are moving at constant velocity.",
+      "evidence": "CHECK YOUR UNDERSTANDING 5.2 A skydiver opens their parachute, and shortly thereafter, they are moving at constant velocity.",
+      "position": 9
+    },
+    {
+      "id": "external_force",
+      "type": "concept",
+      "label": "External force",
+      "description": "INTERACTIVE Engage the simulation below to predict, qualitatively, how an external force will affect the speed and direction of an object’s motion.",
+      "evidence": "INTERACTIVE Engage the simulation below to predict, qualitatively, how an external force will affect the speed and direction of an object’s motion.",
+      "position": 10
+    },
+    {
+      "id": "connection_1",
+      "type": "connection",
+      "label": "Connection to related mechanics",
+      "description": "Explain the effects with the help of a free-body diagram.",
+      "evidence": "Explain the effects with the help of a free-body diagram.",
+      "position": 11
+    },
+    {
+      "id": "free_body",
+      "type": "concept",
+      "label": "Free-body diagram",
+      "description": "Explain the effects with the help of a free-body diagram.",
+      "evidence": "Explain the effects with the help of a free-body diagram.",
+      "position": 11
+    },
+    {
+      "id": "connection_2",
+      "type": "connection",
+      "label": "Connection to related mechanics",
+      "description": "Use free-body diagrams to draw position, velocity, acceleration, and force graphs, and vice versa.",
+      "evidence": "Use free-body diagrams to draw position, velocity, acceleration, and force graphs, and vice versa.",
+      "position": 12
+    },
+    {
+      "id": "mass",
+      "type": "concept",
+      "label": "Mass",
+      "description": "Access multimedia content (https://openstax.org/l/21forcemotion) 5.3 Newton's Second Law LEARNING OBJECTIVES By the end of this section, you will be able to: • Distinguish between external and internal forces • Describe Newton's second law of motion • Explain the dependence of acceleration on net force and mass Newton’s second law is closely related to his first law.",
+      "evidence": "Access multimedia content (https://openstax.org/l/21forcemotion) 5.3 Newton's Second Law LEARNING OBJECTIVES By the end of this section, you will be able to: • Distinguish between external and internal forces • Describe Newton's second law of motion • Explain the dependence of acceleration on net force and mass Newton’s second law is closely related to his first law.",
+      "position": 15
+    },
+    {
+      "id": "formalism_1",
+      "type": "formalism",
+      "label": "Mathematical statement of Newton's second law",
+      "description": "It mathematically gives the cause-and-effect relationship between force and changes in motion.",
+      "evidence": "It mathematically gives the cause-and-effect relationship between force and changes in motion.",
+      "position": 16
+    },
+    {
+      "id": "motivation_1",
+      "type": "motivation",
+      "label": "Why force explains changes in motion",
+      "description": "It mathematically gives the cause-and-effect relationship between force and changes in motion.",
+      "evidence": "It mathematically gives the cause-and-effect relationship between force and changes in motion.",
+      "position": 16
+    },
+    {
+      "id": "connection_3",
+      "type": "connection",
+      "label": "Connection to prior law",
+      "description": "Newton’s first law says that a net external force causes a change in motion; thus, we see that a net external force causes nonzero acceleration.",
+      "evidence": "Newton’s first law says that a net external force causes a change in motion; thus, we see that a net external force causes nonzero acceleration.",
+      "position": 22
+    },
+    {
+      "id": "newton_first",
+      "type": "concept",
+      "label": "Newton's first law",
+      "description": "Newton’s first law says that a net external force causes a change in motion; thus, we see that a net external force causes nonzero acceleration.",
+      "evidence": "Newton’s first law says that a net external force causes a change in motion; thus, we see that a net external force causes nonzero acceleration.",
+      "position": 22
+    },
+    {
+      "id": "system",
+      "type": "concept",
+      "label": "System of interest",
+      "description": "We defined external force in Forces as force acting on an object or system that originates outside of the object or system.",
+      "evidence": "We defined external force in Forces as force acting on an object or system that originates outside of the object or system.",
+      "position": 23
+    },
+    {
+      "id": "connection_4",
+      "type": "connection",
+      "label": "Connection to prior law",
+      "description": "Only external forces affect the motion of a system, according to Newton’s first law.",
+      "evidence": "Only external forces affect the motion of a system, according to Newton’s first law.",
+      "position": 30
+    },
+    {
+      "id": "weight",
+      "type": "concept",
+      "label": "Weight / gravitational force",
+      "description": "The weight of the system and the support of the ground are also shown for completeness and are assumed to cancel (because there was no vertical motion and no imbalance of forces in the vertical direction to create a change in motion).",
+      "evidence": "The weight of the system and the support of the ground are also shown for completeness and are assumed to cancel (because there was no vertical motion and no imbalance of forces in the vertical direction to create a change in motion).",
+      "position": 44
+    },
+    {
+      "id": "inertia",
+      "type": "concept",
+      "label": "Inertia",
+      "description": "In other words, the larger the mass (the inertia), the smaller the acceleration produced by a given force.",
+      "evidence": "In other words, the larger the mass (the inertia), the smaller the acceleration produced by a given force.",
+      "position": 58
+    },
+    {
+      "id": "exercise_2",
+      "type": "exercise",
+      "label": "Practice/check question 2",
+      "description": "CHECK YOUR UNDERSTANDING 5.3 At the time of its launch, the HMS Titanic was the most massive mobile object ever built, with a mass of .",
+      "evidence": "CHECK YOUR UNDERSTANDING 5.3 At the time of its launch, the HMS Titanic was the most massive mobile object ever built, with a mass of .",
+      "position": 88
+    },
+    {
+      "id": "exercise_3",
+      "type": "exercise",
+      "label": "Practice/check question 3",
+      "description": "CHECK YOUR UNDERSTANDING 5.4 A 550-kg sports car collides with a 2200-kg truck, and during the collision, the net force on each vehicle is the force exerted by the other.",
+      "evidence": "CHECK YOUR UNDERSTANDING 5.4 A 550-kg sports car collides with a 2200-kg truck, and during the collision, the net force on each vehicle is the force exerted by the other.",
+      "position": 138
+    },
+    {
+      "id": "exercise_4",
+      "type": "exercise",
+      "label": "Practice/check question 4",
+      "description": "CHECK YOUR UNDERSTANDING 5.5 A car has forces acting on it, as shown below.",
+      "evidence": "CHECK YOUR UNDERSTANDING 5.5 A car has forces acting on it, as shown below.",
+      "position": 165
+    },
+    {
+      "id": "momentum",
+      "type": "concept",
+      "label": "Momentum",
+      "description": "Access for free at openstax.org 5.3 • Newton's Second Law 211 Newton’s Second Law and Momentum Newton actually stated his second law in terms of momentum: “The instantaneous rate at which a body’s momentum changes is equal to the net force acting on the body.” (“Instantaneous rate” implies that the derivative is involved.) This can be given by the vector equation 5.6 This means that Newton’s second law addresses the ",
+      "evidence": "Access for free at openstax.org 5.3 • Newton's Second Law 211 Newton’s Second Law and Momentum Newton actually stated his second law in terms of momentum: “The instantaneous rate at which a body’s momentum changes is equal to the net force acting on the body.” (“Instantaneous rate” implies that the derivative is involved.) This can be given by the vector equation 5.6 This means that Newton’s second law addresses the central question of motion: What causes a change in motion of an object?",
+      "position": 169
+    }
+  ],
+  "edges": [
+    {
+      "source": "force",
+      "target": "motion",
+      "type": "leads_to",
+      "evidence": "Textual-order heuristic; requires expert verification."
+    },
+    {
+      "source": "motion",
+      "target": "net_force",
+      "type": "leads_to",
+      "evidence": "Textual-order heuristic; requires expert verification."
+    },
+    {
+      "source": "net_force",
+      "target": "acceleration",
+      "type": "leads_to",
+      "evidence": "Textual-order heuristic; requires expert verification."
+    },
+    {
+      "source": "acceleration",
+      "target": "velocity",
+      "type": "leads_to",
+      "evidence": "Textual-order heuristic; requires expert verification."
+    },
+    {
+      "source": "velocity",
+      "target": "external_force",
+      "type": "leads_to",
+      "evidence": "Textual-order heuristic; requires expert verification."
+    },
+    {
+      "source": "external_force",
+      "target": "free_body",
+      "type": "leads_to",
+      "evidence": "Textual-order heuristic; requires expert verification."
+    },
+    {
+      "source": "free_body",
+      "target": "mass",
+      "type": "leads_to",
+      "evidence": "Textual-order heuristic; requires expert verification."
+    },
+    {
+      "source": "mass",
+      "target": "newton_first",
+      "type": "leads_to",
+      "evidence": "Textual-order heuristic; requires expert verification."
+    },
+    {
+      "source": "newton_first",
+      "target": "system",
+      "type": "leads_to",
+      "evidence": "Textual-order heuristic; requires expert verification."
+    },
+    {
+      "source": "system",
+      "target": "weight",
+      "type": "leads_to",
+      "evidence": "Textual-order heuristic; requires expert verification."
+    },
+    {
+      "source": "weight",
+      "target": "inertia",
+      "type": "leads_to",
+      "evidence": "Textual-order heuristic; requires expert verification."
+    },
+    {
+      "source": "inertia",
+      "target": "momentum",
+      "type": "leads_to",
+      "evidence": "Textual-order heuristic; requires expert verification."
+    },
+    {
+      "source": "example_4",
+      "target": "force",
+      "type": "illustrates",
+      "evidence": "Example/concept lexical overlap heuristic."
+    },
+    {
+      "source": "example_5",
+      "target": "velocity",
+      "type": "illustrates",
+      "evidence": "Example/concept lexical overlap heuristic."
+    },
+    {
+      "source": "connection_1",
+      "target": "force",
+      "type": "prerequisite_of",
+      "evidence": "Related prior-knowledge concept; inferred, not asserted."
+    },
+    {
+      "source": "connection_2",
+      "target": "force",
+      "type": "prerequisite_of",
+      "evidence": "Related prior-knowledge concept; inferred, not asserted."
+    },
+    {
+      "source": "formalism_1",
+      "target": "force",
+      "type": "formalizes",
+      "evidence": "Equation and concept co-occurrence heuristic."
+    },
+    {
+      "source": "motivation_1",
+      "target": "force",
+      "type": "motivates",
+      "evidence": "Motivation precedes concept sequence in source."
+    },
+    {
+      "source": "connection_3",
+      "target": "force",
+      "type": "prerequisite_of",
+      "evidence": "Related prior-knowledge concept; inferred, not asserted."
+    },
+    {
+      "source": "connection_4",
+      "target": "force",
+      "type": "prerequisite_of",
+      "evidence": "Related prior-knowledge concept; inferred, not asserted."
+    }
+  ],
+  "extraction_metadata": {
+    "method": "deterministic_rule_based_v1",
+    "model": "none (offline baseline)",
+    "api_cost_usd": 0.0,
+    "input_words": 3686,
+    "node_cap": 40,
+    "note": "Candidate relations are heuristically inferred and require human validation."
+  }
+}

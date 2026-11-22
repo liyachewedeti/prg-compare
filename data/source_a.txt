@@ -1,0 +1,337 @@
+128   4 • Forces and Newton’s Laws of Motion
+
+
+
+               d. The object experiences a pseudo-force from the body in motion, which opposes its motion.
+
+         7. What is inertia?
+             a. Inertia is an object’s tendency to maintain its mass.
+             b. Inertia is an object’s tendency to remain at rest.
+             c. Inertia is an object’s tendency to remain in motion
+             d. Inertia is an object’s tendency to remain at rest or, if moving, to remain in motion.
+
+         8. What is mass? What does it depend on?
+             a. Mass is the weight of an object, and it depends on the gravitational force acting on the object.
+             b. Mass is the weight of an object, and it depends on the number and types of atoms in the object.
+             c. Mass is the quantity of matter contained in an object, and it depends on the gravitational force acting on
+                 the object.
+             d. Mass is the quantity of matter contained in an object, and it depends on the number and types of atoms
+                 in the object.
+
+
+      4.3 Newton's Second Law of Motion
+      SECTION LEARNING OBJECTIVES
+      By the end of this section, you will be able to do the following:
+         • Describe Newton’s second law, both verbally and mathematically
+         • Use Newton’s second law to solve problems
+
+      Section Key Terms
+        freefall    Newton’s second law of motion      weight
+
+      Describing Newton’s Second Law of Motion
+      Newton’s first law considered bodies at rest or bodies in motion at a constant velocity. The other state of motion to
+      consider is when an object is moving with a changing velocity, which means a change in the speed and/or the
+      direction of motion. This type of motion is addressed by Newton’s second law of motion, which states how force
+      causes changes in motion. Newton’s second law of motion is used to calculate what happens in situations involving
+      forces and motion, and it shows the mathematical relationship between force, mass, and acceleration.
+      Mathematically, the second law is most often written as
+                                                                                                                        4.2
+
+      where Fnet (or ∑F) is the net external force, m is the mass of the system, and a is the acceleration. Note that Fnet
+      and ∑F are the same because the net external force is the sum of all the external forces acting on the system.
+
+      First, what do we mean by a change in motion? A change in motion is simply a change in velocity: the speed of an
+      object can become slower or faster, the direction in which the object is moving can change, or both of these
+      variables may change. A change in velocity means, by definition, that an acceleration has occurred. Newton’s first
+      law says that only a nonzero net external force can cause a change in motion, so a net external force must cause an
+      acceleration. Note that acceleration can refer to slowing down or to speeding up. Acceleration can also refer to a
+      change in the direction of motion with no change in speed, because acceleration is the change in velocity divided by
+      the time it takes for that change to occur, and velocity is defined by speed and direction.
+
+      From the equation              we see that force is directly proportional to both mass and acceleration, which makes
+      sense. To accelerate two objects from rest to the same velocity, you would expect more force to be required to
+      accelerate the more massive object. Likewise, for two objects of the same mass, applying a greater force to one
+      would accelerate it to a greater velocity.
+
+      Now, let’s rearrange Newton’s second law to solve for acceleration. We get
+                                                                                                                         4.3
+
+
+
+
+      Access for free at openstax.org
+                                                                                                        4.3 • Newton's Second Law of Motion       129
+
+
+
+In this form, we can see that acceleration is directly proportional to force, which we write as
+                                                                                                                                            4.4
+
+where the symbol          means proportional to.
+
+This proportionality mathematically states what we just said in words: acceleration is directly proportional to the net
+external force. When two variables are directly proportional to each other, then if one variable doubles, the other
+variable must double. Likewise, if one variable is reduced by half, the other variable must also be reduced by half. In
+general, when one variable is multiplied by a number, the other variable is also multiplied by the same number. It
+seems reasonable that the acceleration of a system should be directly proportional to and in the same direction as
+the net external force acting on the system. An object experiences greater acceleration when acted on by a greater
+force.
+
+It is also clear from the equation                      that acceleration is inversely proportional to mass, which we write as
+                                                                                                                                            4.5
+
+
+Inversely proportional means that if one variable is multiplied by a number, the other variable must be divided by
+the same number. Now, it also seems reasonable that acceleration should be inversely proportional to the mass of
+the system. In other words, the larger the mass (the inertia), the smaller the acceleration produced by a given force.
+This relationship is illustrated in Figure 4.5, which shows that a given net external force applied to a basketball
+produces a much greater acceleration than when applied to a car.
+
+
+
+
+FIGURE 4.5 The same force exerted on systems of different masses produces different accelerations. (a) A boy pushes a basketball to
+make a pass. The effect of gravity on the ball is ignored. (b) The same boy pushing with identical force on a stalled car produces a far
+smaller acceleration (friction is negligible). Note that the free-body diagrams for the ball and for the car are identical, which allows us to
+compare the two situations.
+
+Applying Newton’s Second Law
+Before putting Newton’s second law into action, it is important to consider units. The equation                is used to
+define the units of force in terms of the three basic units of mass, length, and time (recall that acceleration has units
+of length divided by time squared). The SI unit of force is called the newton (abbreviated N) and is the force needed
+to accelerate a 1-kg system at the rate of 1 m/s2. That is, because               we have
+                                                                                                                                            4.6
+
+
+One of the most important applications of Newton’s second law is to calculate weight (also known as the
+gravitational force), which is usually represented mathematically as W. When people talk about gravity, they don’t
+always realize that it is an acceleration. When an object is dropped, it accelerates toward the center of Earth.
+Newton’s second law states that the net external force acting on an object is responsible for the acceleration of the
+object. If air resistance is negligible, the net external force on a falling object is only the gravitational force (i.e., the
+weight of the object).
+130   4 • Forces and Newton’s Laws of Motion
+
+
+
+      Weight can be represented by a vector because it has a direction. Down is defined as the direction in which gravity
+      pulls, so weight is normally considered a downward force. By using Newton’s second law, we can figure out the
+      equation for weight.
+
+      Consider an object with mass m falling toward Earth. It experiences only the force of gravity (i.e., the gravitational
+      force or weight), which is represented by W. Newton’s second law states that              Because the only force
+      acting on the object is the gravitational force, we have          We know that the acceleration of an object due to
+      gravity is g, so we have        Substituting these two expressions into Newton’s second law gives
+                                                                                                                          4.7
+
+      This is the equation for weight—the gravitational force on a mass m. On Earth,                      so the weight
+      (disregarding for now the direction of the weight) of a 1.0-kg object on Earth is
+                                                                                                                             4.8
+
+      Although most of the world uses newtons as the unit of force, in the United States the most familiar unit of force is
+      the pound (lb), where 1 N = 0.225 lb.
+
+      Recall that although gravity acts downward, it can be assigned a positive or negative value, depending on what the
+      positive direction is in your chosen coordinate system. Be sure to take this into consideration when solving problems
+      with weight. When the downward direction is taken to be negative, as is often the case, acceleration due to gravity
+      becomes –g = −9.8 m/s2 and the weight force is –mg.
+
+      When the net external force on an object is its weight, we say that it is in freefall. In this case, the only force acting
+      on the object is the force of gravity. On the surface of Earth, when objects fall downward toward Earth, they are
+      never truly in freefall because there is always some upward force due to air resistance that acts on the object (and
+      there is also the buoyancy force of air, which is similar to the buoyancy force in water that keeps boats afloat).
+
+      Gravity varies slightly over the surface of Earth, so the weight of an object depends very slightly on its location on
+      Earth. Weight varies dramatically away from Earth’s surface. On the moon, for example, the acceleration due to
+      gravity is only 1.67 m/s2. Because weight depends on the force of gravity, a 1.0-kg mass weighs 9.8 N on Earth and
+      only about 1.7 N on the moon.
+
+      It is important to remember that weight and mass are very different, although they are closely related. Mass is the
+      quantity of matter in an object (how much stuff there is, or how hard it is to accelerate it) and does not vary, but
+      weight is the gravitational force on an object and is proportional to the force of gravity. It is easy to confuse the two,
+      because our experience is confined to Earth, and the weight of an object is essentially the same no matter where
+      you are on Earth. Adding to the confusion, the terms mass and weight are often used interchangeably in everyday
+      language; for example, our medical records often show our weight in kilograms, but never in the correct unit of
+      newtons.
+
+
+        SNAP LAB
+        Mass and Weight
+        In this activity, you will use a scale to investigate mass and weight.
+
+           • 1 bathroom scale
+           • 1 table
+
+          1. What do bathroom scales measure?
+          2. When you stand on a bathroom scale, what happens to the scale? It depresses slightly. The scale contains
+             springs that compress in proportion to your weight—similar to rubber bands expanding when pulled.
+          3. The springs provide a measure of your weight (provided you are not accelerating). This is a force in
+             newtons (or pounds). In most countries, the measurement is now divided by 9.80 to give a reading in
+             kilograms, which is a of mass. The scale detects weight but is calibrated to display mass.
+          4. If you went to the moon and stood on your scale, would it detect the same mass as it did on Earth?
+
+
+
+
+      Access for free at openstax.org
+                                                                                    4.3 • Newton's Second Law of Motion   131
+
+
+
+
+   GRASP CHECK
+   While standing on a bathroom scale, push down on a table next to you. What happens to the reading? Why?
+    a. The reading increases because part of your weight is applied to the table and the table exerts a
+         matching force on you that acts in the direction of your weight.
+    b. The reading increases because part of your weight is applied to the table and the table exerts a
+         matching force on you that acts in the direction opposite to your weight.
+    c. The reading decreases because part of your weight is applied to the table and the table exerts a
+         matching force on you that acts in the direction of your weight.
+    d. The reading decreases because part of your weight is applied to the table and the table exerts a
+         matching force on you that acts in the direction opposite to your weight.
+
+
+
+
+ TIPS FOR SUCCESS
+ Only net external force impacts the acceleration of an object. If more than one force acts on an object and you
+ calculate the acceleration by using only one of these forces, you will not get the correct acceleration for that
+ object.
+
+
+
+       WATCH PHYSICS
+
+Newton’s Second Law of Motion
+This video reviews Newton’s second law of motion and how net external force and acceleration relate to one another
+and to mass. It also covers units of force, mass, and acceleration, and reviews a worked-out example.
+
+Newton's second law of motion | Forces and Newton's laws of motion | Physics | Khan Academy
+(https://openstax.org/l/02newlawtwo)
+
+ GRASP CHECK
+ True or False —If you want to reduce the acceleration of an object to half its original value, then you would need
+ to reduce the net external force by half.
+   a. True
+   b. False
+
+
+
+       WORKED EXAMPLE
+
+What Acceleration Can a Person Produce when Pushing a Lawn Mower?
+Suppose that the net external force (push minus friction) exerted on a lawn mower is 51 N parallel to the ground.
+The mass of the mower is 240 kg. What is its acceleration?
+
+
+
+
+                                                     FIGURE 4.6
+132   4 • Forces and Newton’s Laws of Motion
+
+
+
+      Strategy
+      Because Fnet and m are given, the acceleration can be calculated directly from Newton’s second law: Fnet = ma.
+
+      Solution
+      Solving Newton’s second law for the acceleration, we find that the magnitude of the acceleration, a, is
+      Entering the given values for net external force and mass gives
+
+                                                                                                                        4.9
+
+
+      Inserting the units               for N yields
+
+                                                                                                                      4.10
+
+
+      Discussion
+      The acceleration is in the same direction as the net external force, which is parallel to the ground and to the right.
+      There is no information given in this example about the individual external forces acting on the system, but we can
+      say something about their relative magnitudes. For example, the force exerted by the person pushing the mower
+      must be greater than the friction opposing the motion, because we are given that the net external force is in the
+      direction in which the person pushes. Also, the vertical forces must cancel if there is no acceleration in the vertical
+      direction (the mower is moving only horizontally). The acceleration found is reasonable for a person pushing a
+      mower; the mower’s speed must increase by 0.21 m/s every second, which is possible. The time during which the
+      mower accelerates would not be very long because the person’s top speed would soon be reached. At this point, the
+      person could push a little less hard, because he only has to overcome friction.
+
+
+
+
+              WORKED EXAMPLE
+
+      What Rocket Thrust Accelerates This Sled?
+      Prior to manned space flights, rocket sleds were used to test aircraft, missile equipment, and physiological effects
+      on humans at high accelerations. Rocket sleds consisted of a platform mounted on one or two rails and propelled by
+      several rockets. Calculate the magnitude of force exerted by each rocket, called its thrust, T, for the four-rocket
+      propulsion system shown below. The sled’s initial acceleration is            the mass of the system is 2,100 kg, and
+      the force of friction opposing the motion is 650 N.
+
+
+
+
+                                                            FIGURE 4.7
+
+
+
+
+      Access for free at openstax.org
+                                                                                     4.3 • Newton's Second Law of Motion   133
+
+
+
+Strategy
+The system of interest is the rocket sled. Although forces act vertically on the system, they must cancel because the
+system does not accelerate vertically. This leaves us with only horizontal forces to consider. We’ll assign the
+direction to the right as the positive direction. See the free-body diagram in Figure 4.8.
+
+Solution
+We start with Newton’s second law and look for ways to find the thrust T of the engines. Because all forces and
+acceleration are along a line, we need only consider the magnitudes of these quantities in the calculations. We begin
+with
+                                                                                                               4.11
+
+where        is the net external force in the horizontal direction. We can see from Figure 4.8 that the engine thrusts
+are in the same direction (which we call the positive direction), whereas friction opposes the thrust. In equation
+form, the net external force is
+                                                                                                                   4.12
+
+Newton’s second law tells us that Fnet= ma, so we get
+                                                                                                                  4.13
+
+After a little algebra, we solve for the total thrust 4T:
+                                                                                                                  4.14
+
+which means that the individual thrust is
+                                                                                                                  4.15
+
+
+Inserting the known values yields
+
+                                                                                                                  4.16
+
+
+Discussion
+The numbers are quite large, so the result might surprise you. Experiments such as this were performed in the early
+1960s to test the limits of human endurance and to test the apparatus designed to protect fighter pilots in
+emergency ejections. Speeds of 1000 km/h were obtained, with accelerations of 45 g. (Recall that g, the
+acceleration due to gravity, is            An acceleration of 45 g is                  which is approximately
+           ) Living subjects are no longer used, and land speeds of 10,000 km/h have now been obtained with
+rocket sleds. In this example, as in the preceding example, the system of interest is clear. We will see in later
+examples that choosing the system of interest is crucial—and that the choice is not always obvious.
+
+
+Practice Problems
+   9. If 1 N is equal to 0.225 lb, how many pounds is 5 N of force?
+         a. 0.045 lb
+         b. 1.125 lb
+         c. 2.025 lb
+         d. 5.000 lb
+
+ 10. How much force needs to be applied to a 5-kg object for it to accelerate at 20 m/s2?
+      a. 1 N
+      b. 10 N
+       c. 100 N
+      d. 1,000 N
+

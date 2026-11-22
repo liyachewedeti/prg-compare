@@ -1,0 +1,193 @@
+{
+  "source_a": "openstax_college_physics_2e_section_4_3",
+  "source_b": "openstax_university_physics_volume_1_section_5_3",
+  "metrics": {
+    "node_alignment_coverage": 1.0,
+    "mapped_edge_jaccard": 0.0,
+    "degree_distribution_similarity": 0.946,
+    "structural_similarity": 0.379,
+    "combined_similarity": 0.671,
+    "pedagogical_divergence": 0.329,
+    "critical_path_edges": {
+      "source_a": 12,
+      "source_b": 13
+    }
+  },
+  "node_alignment": [
+    {
+      "source_a": "connection_4",
+      "source_b": "connection_3",
+      "score": 0.693,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "motion",
+      "source_b": "motion",
+      "score": 0.578,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "motivation_1",
+      "source_b": "motivation_1",
+      "score": 0.478,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "exercise_3",
+      "source_b": "exercise_3",
+      "score": 0.449,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "connection_1",
+      "source_b": "connection_2",
+      "score": 0.446,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "system",
+      "source_b": "system",
+      "score": 0.417,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "force",
+      "source_b": "force",
+      "score": 0.417,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "example_2",
+      "source_b": "example_2",
+      "score": 0.4,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "formalism_1",
+      "source_b": "formalism_1",
+      "score": 0.397,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "example_5",
+      "source_b": "example_5",
+      "score": 0.384,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "free_body",
+      "source_b": "free_body",
+      "score": 0.382,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "example_1",
+      "source_b": "example_1",
+      "score": 0.375,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "connection_2",
+      "source_b": "connection_1",
+      "score": 0.375,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "connection_3",
+      "source_b": "connection_4",
+      "score": 0.367,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "net_force",
+      "source_b": "net_force",
+      "score": 0.365,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "example_3",
+      "source_b": "example_3",
+      "score": 0.365,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "acceleration",
+      "source_b": "acceleration",
+      "score": 0.364,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "velocity",
+      "source_b": "velocity",
+      "score": 0.362,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "example_4",
+      "source_b": "example_4",
+      "score": 0.361,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "exercise_1",
+      "source_b": "exercise_1",
+      "score": 0.36,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "weight",
+      "source_b": "weight",
+      "score": 0.357,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "newton_first",
+      "source_b": "newton_first",
+      "score": 0.35,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "external_force",
+      "source_b": "external_force",
+      "score": 0.344,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "exercise_2",
+      "source_b": "exercise_2",
+      "score": 0.332,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "inertia",
+      "source_b": "inertia",
+      "score": 0.292,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    },
+    {
+      "source_a": "mass",
+      "source_b": "mass",
+      "score": 0.284,
+      "method": "type-constrained synonym-normalized token Jaccard"
+    }
+  ],
+  "pedagogical_divergences": [
+    {
+      "dimension": "formalism_vs_example",
+      "source_a_order": "before",
+      "source_b_order": "after",
+      "explanation": "Source A places formalism before example, whereas Source B places it after example. This indicates a difference in instructional sequencing; it is consistent with, but does not by itself prove, an inductive or deductive teaching strategy."
+    }
+  ],
+  "scale_analysis": {
+    "node_level": "26 one-to-one node matches from 26 and 28 extracted nodes; alignment is lexical and type-constrained, not expert-validated.",
+    "subgraph_level": "Mapped edge Jaccard=0.000; edge agreement is assessed only among aligned nodes.",
+    "graph_level": "Longest directed path: A=12 edges; B=13 edges. These are heuristic graph depths, not validated measures of cognitive difficulty."
+  },
+  "validity": {
+    "source_a_is_dag": true,
+    "source_b_is_dag": true,
+    "source_a_nodes": 26,
+    "source_b_nodes": 28
+  }
+}

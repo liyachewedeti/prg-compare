@@ -1,0 +1,350 @@
+{
+  "source": "openstax_college_physics_2e_section_4_3",
+  "concept_domain": "Newton's Second Law",
+  "nodes": [
+    {
+      "id": "motion",
+      "type": "concept",
+      "label": "Change in motion",
+      "description": "128 4 • Forces and Newton’s Laws of Motion d.",
+      "evidence": "128 4 • Forces and Newton’s Laws of Motion d.",
+      "position": 0
+    },
+    {
+      "id": "force",
+      "type": "concept",
+      "label": "Force",
+      "description": "The object experiences a pseudo-force from the body in motion, which opposes its motion.",
+      "evidence": "The object experiences a pseudo-force from the body in motion, which opposes its motion.",
+      "position": 1
+    },
+    {
+      "id": "inertia",
+      "type": "concept",
+      "label": "Inertia",
+      "description": "Inertia is an object’s tendency to maintain its mass. b.",
+      "evidence": "Inertia is an object’s tendency to maintain its mass. b.",
+      "position": 2
+    },
+    {
+      "id": "mass",
+      "type": "concept",
+      "label": "Mass",
+      "description": "Inertia is an object’s tendency to maintain its mass. b.",
+      "evidence": "Inertia is an object’s tendency to maintain its mass. b.",
+      "position": 2
+    },
+    {
+      "id": "connection_1",
+      "type": "connection",
+      "label": "Connection to related mechanics",
+      "description": "Mass is the weight of an object, and it depends on the gravitational force acting on the object. b.",
+      "evidence": "Mass is the weight of an object, and it depends on the gravitational force acting on the object. b.",
+      "position": 6
+    },
+    {
+      "id": "weight",
+      "type": "concept",
+      "label": "Weight / gravitational force",
+      "description": "Mass is the weight of an object, and it depends on the gravitational force acting on the object. b.",
+      "evidence": "Mass is the weight of an object, and it depends on the gravitational force acting on the object. b.",
+      "position": 6
+    },
+    {
+      "id": "connection_2",
+      "type": "connection",
+      "label": "Connection to related mechanics",
+      "description": "Mass is the weight of an object, and it depends on the number and types of atoms in the object. c.",
+      "evidence": "Mass is the weight of an object, and it depends on the number and types of atoms in the object. c.",
+      "position": 7
+    },
+    {
+      "id": "connection_3",
+      "type": "connection",
+      "label": "Connection to prior law",
+      "description": "4.3 Newton's Second Law of Motion SECTION LEARNING OBJECTIVES By the end of this section, you will be able to do the following: • Describe Newton’s second law, both verbally and mathematically • Use Newton’s second law to solve problems Section Key Terms freefall Newton’s second law of motion weight Describing Newton’s Second Law of Motion Newton’s first law considered bodies at rest or bodies in motion at a constant",
+      "evidence": "4.3 Newton's Second Law of Motion SECTION LEARNING OBJECTIVES By the end of this section, you will be able to do the following: • Describe Newton’s second law, both verbally and mathematically • Use Newton’s second law to solve problems Section Key Terms freefall Newton’s second law of motion weight Describing Newton’s Second Law of Motion Newton’s first law considered bodies at rest or bodies in motion at a constant velocity.",
+      "position": 10
+    },
+    {
+      "id": "formalism_1",
+      "type": "formalism",
+      "label": "Mathematical statement of Newton's second law",
+      "description": "4.3 Newton's Second Law of Motion SECTION LEARNING OBJECTIVES By the end of this section, you will be able to do the following: • Describe Newton’s second law, both verbally and mathematically • Use Newton’s second law to solve problems Section Key Terms freefall Newton’s second law of motion weight Describing Newton’s Second Law of Motion Newton’s first law considered bodies at rest or bodies in motion at a constant",
+      "evidence": "4.3 Newton's Second Law of Motion SECTION LEARNING OBJECTIVES By the end of this section, you will be able to do the following: • Describe Newton’s second law, both verbally and mathematically • Use Newton’s second law to solve problems Section Key Terms freefall Newton’s second law of motion weight Describing Newton’s Second Law of Motion Newton’s first law considered bodies at rest or bodies in motion at a constant velocity.",
+      "position": 10
+    },
+    {
+      "id": "newton_first",
+      "type": "concept",
+      "label": "Newton's first law",
+      "description": "4.3 Newton's Second Law of Motion SECTION LEARNING OBJECTIVES By the end of this section, you will be able to do the following: • Describe Newton’s second law, both verbally and mathematically • Use Newton’s second law to solve problems Section Key Terms freefall Newton’s second law of motion weight Describing Newton’s Second Law of Motion Newton’s first law considered bodies at rest or bodies in motion at a constant",
+      "evidence": "4.3 Newton's Second Law of Motion SECTION LEARNING OBJECTIVES By the end of this section, you will be able to do the following: • Describe Newton’s second law, both verbally and mathematically • Use Newton’s second law to solve problems Section Key Terms freefall Newton’s second law of motion weight Describing Newton’s Second Law of Motion Newton’s first law considered bodies at rest or bodies in motion at a constant velocity.",
+      "position": 10
+    },
+    {
+      "id": "velocity",
+      "type": "concept",
+      "label": "Velocity",
+      "description": "4.3 Newton's Second Law of Motion SECTION LEARNING OBJECTIVES By the end of this section, you will be able to do the following: • Describe Newton’s second law, both verbally and mathematically • Use Newton’s second law to solve problems Section Key Terms freefall Newton’s second law of motion weight Describing Newton’s Second Law of Motion Newton’s first law considered bodies at rest or bodies in motion at a constant",
+      "evidence": "4.3 Newton's Second Law of Motion SECTION LEARNING OBJECTIVES By the end of this section, you will be able to do the following: • Describe Newton’s second law, both verbally and mathematically • Use Newton’s second law to solve problems Section Key Terms freefall Newton’s second law of motion weight Describing Newton’s Second Law of Motion Newton’s first law considered bodies at rest or bodies in motion at a constant velocity.",
+      "position": 10
+    },
+    {
+      "id": "motivation_1",
+      "type": "motivation",
+      "label": "Why force explains changes in motion",
+      "description": "This type of motion is addressed by Newton’s second law of motion, which states how force causes changes in motion.",
+      "evidence": "This type of motion is addressed by Newton’s second law of motion, which states how force causes changes in motion.",
+      "position": 12
+    },
+    {
+      "id": "acceleration",
+      "type": "concept",
+      "label": "Acceleration",
+      "description": "Newton’s second law of motion is used to calculate what happens in situations involving forces and motion, and it shows the mathematical relationship between force, mass, and acceleration.",
+      "evidence": "Newton’s second law of motion is used to calculate what happens in situations involving forces and motion, and it shows the mathematical relationship between force, mass, and acceleration.",
+      "position": 13
+    },
+    {
+      "id": "external_force",
+      "type": "concept",
+      "label": "External force",
+      "description": "Mathematically, the second law is most often written as 4.2 where Fnet (or ∑F) is the net external force, m is the mass of the system, and a is the acceleration.",
+      "evidence": "Mathematically, the second law is most often written as 4.2 where Fnet (or ∑F) is the net external force, m is the mass of the system, and a is the acceleration.",
+      "position": 14
+    },
+    {
+      "id": "net_force",
+      "type": "concept",
+      "label": "Net external force",
+      "description": "Mathematically, the second law is most often written as 4.2 where Fnet (or ∑F) is the net external force, m is the mass of the system, and a is the acceleration.",
+      "evidence": "Mathematically, the second law is most often written as 4.2 where Fnet (or ∑F) is the net external force, m is the mass of the system, and a is the acceleration.",
+      "position": 14
+    },
+    {
+      "id": "system",
+      "type": "concept",
+      "label": "System of interest",
+      "description": "Mathematically, the second law is most often written as 4.2 where Fnet (or ∑F) is the net external force, m is the mass of the system, and a is the acceleration.",
+      "evidence": "Mathematically, the second law is most often written as 4.2 where Fnet (or ∑F) is the net external force, m is the mass of the system, and a is the acceleration.",
+      "position": 14
+    },
+    {
+      "id": "connection_4",
+      "type": "connection",
+      "label": "Connection to prior law",
+      "description": "Newton’s first law says that only a nonzero net external force can cause a change in motion, so a net external force must cause an acceleration.",
+      "evidence": "Newton’s first law says that only a nonzero net external force can cause a change in motion, so a net external force must cause an acceleration.",
+      "position": 19
+    },
+    {
+      "id": "example_1",
+      "type": "example",
+      "label": "Illustrative application 1",
+      "description": "This relationship is illustrated in Figure 4.5, which shows that a given net external force applied to a basketball produces a much greater acceleration than when applied to a car.",
+      "evidence": "This relationship is illustrated in Figure 4.5, which shows that a given net external force applied to a basketball produces a much greater acceleration than when applied to a car.",
+      "position": 36
+    },
+    {
+      "id": "example_2",
+      "type": "example",
+      "label": "Illustrative application 2",
+      "description": "(a) A boy pushes a basketball to make a pass.",
+      "evidence": "(a) A boy pushes a basketball to make a pass.",
+      "position": 38
+    },
+    {
+      "id": "example_3",
+      "type": "example",
+      "label": "Illustrative application 3",
+      "description": "(b) The same boy pushing with identical force on a stalled car produces a far smaller acceleration (friction is negligible).",
+      "evidence": "(b) The same boy pushing with identical force on a stalled car produces a far smaller acceleration (friction is negligible).",
+      "position": 40
+    },
+    {
+      "id": "example_4",
+      "type": "example",
+      "label": "Illustrative application 4",
+      "description": "Note that the free-body diagrams for the ball and for the car are identical, which allows us to compare the two situations.",
+      "evidence": "Note that the free-body diagrams for the ball and for the car are identical, which allows us to compare the two situations.",
+      "position": 41
+    },
+    {
+      "id": "free_body",
+      "type": "concept",
+      "label": "Free-body diagram",
+      "description": "Note that the free-body diagrams for the ball and for the car are identical, which allows us to compare the two situations.",
+      "evidence": "Note that the free-body diagrams for the ball and for the car are identical, which allows us to compare the two situations.",
+      "position": 41
+    },
+    {
+      "id": "example_5",
+      "type": "example",
+      "label": "Illustrative application 5",
+      "description": "On the moon, for example, the acceleration due to gravity is only 1.67 m/s2.",
+      "evidence": "On the moon, for example, the acceleration due to gravity is only 1.67 m/s2.",
+      "position": 65
+    },
+    {
+      "id": "exercise_1",
+      "type": "exercise",
+      "label": "Practice/check question 1",
+      "description": "Access for free at openstax.org 4.3 • Newton's Second Law of Motion 131 GRASP CHECK While standing on a bathroom scale, push down on a table next to you.",
+      "evidence": "Access for free at openstax.org 4.3 • Newton's Second Law of Motion 131 GRASP CHECK While standing on a bathroom scale, push down on a table next to you.",
+      "position": 79
+    },
+    {
+      "id": "exercise_2",
+      "type": "exercise",
+      "label": "Practice/check question 2",
+      "description": "Newton's second law of motion | Forces and Newton's laws of motion | Physics | Khan Academy (https://openstax.org/l/02newlawtwo) GRASP CHECK True or False —If you want to reduce the acceleration of an object to half its original value, then you would need to reduce the net external force by half. a.",
+      "evidence": "Newton's second law of motion | Forces and Newton's laws of motion | Physics | Khan Academy (https://openstax.org/l/02newlawtwo) GRASP CHECK True or False —If you want to reduce the acceleration of an object to half its original value, then you would need to reduce the net external force by half. a.",
+      "position": 88
+    },
+    {
+      "id": "exercise_3",
+      "type": "exercise",
+      "label": "Practice/check question 3",
+      "description": "How much force needs to be applied to a 5-kg object for it to accelerate at 20 m/s2? a.",
+      "evidence": "How much force needs to be applied to a 5-kg object for it to accelerate at 20 m/s2? a.",
+      "position": 120
+    }
+  ],
+  "edges": [
+    {
+      "source": "motion",
+      "target": "force",
+      "type": "leads_to",
+      "evidence": "Textual-order heuristic; requires expert verification."
+    },
+    {
+      "source": "force",
+      "target": "inertia",
+      "type": "leads_to",
+      "evidence": "Textual-order heuristic; requires expert verification."
+    },
+    {
+      "source": "inertia",
+      "target": "mass",
+      "type": "leads_to",
+      "evidence": "Textual-order heuristic; requires expert verification."
+    },
+    {
+      "source": "mass",
+      "target": "weight",
+      "type": "leads_to",
+      "evidence": "Textual-order heuristic; requires expert verification."
+    },
+    {
+      "source": "weight",
+      "target": "newton_first",
+      "type": "leads_to",
+      "evidence": "Textual-order heuristic; requires expert verification."
+    },
+    {
+      "source": "newton_first",
+      "target": "velocity",
+      "type": "leads_to",
+      "evidence": "Textual-order heuristic; requires expert verification."
+    },
+    {
+      "source": "velocity",
+      "target": "acceleration",
+      "type": "leads_to",
+      "evidence": "Textual-order heuristic; requires expert verification."
+    },
+    {
+      "source": "acceleration",
+      "target": "external_force",
+      "type": "leads_to",
+      "evidence": "Textual-order heuristic; requires expert verification."
+    },
+    {
+      "source": "external_force",
+      "target": "net_force",
+      "type": "leads_to",
+      "evidence": "Textual-order heuristic; requires expert verification."
+    },
+    {
+      "source": "net_force",
+      "target": "system",
+      "type": "leads_to",
+      "evidence": "Textual-order heuristic; requires expert verification."
+    },
+    {
+      "source": "system",
+      "target": "free_body",
+      "type": "leads_to",
+      "evidence": "Textual-order heuristic; requires expert verification."
+    },
+    {
+      "source": "connection_1",
+      "target": "motion",
+      "type": "prerequisite_of",
+      "evidence": "Related prior-knowledge concept; inferred, not asserted."
+    },
+    {
+      "source": "connection_2",
+      "target": "motion",
+      "type": "prerequisite_of",
+      "evidence": "Related prior-knowledge concept; inferred, not asserted."
+    },
+    {
+      "source": "connection_3",
+      "target": "motion",
+      "type": "prerequisite_of",
+      "evidence": "Related prior-knowledge concept; inferred, not asserted."
+    },
+    {
+      "source": "formalism_1",
+      "target": "motion",
+      "type": "formalizes",
+      "evidence": "Equation and concept co-occurrence heuristic."
+    },
+    {
+      "source": "motivation_1",
+      "target": "motion",
+      "type": "motivates",
+      "evidence": "Motivation precedes concept sequence in source."
+    },
+    {
+      "source": "connection_4",
+      "target": "motion",
+      "type": "prerequisite_of",
+      "evidence": "Related prior-knowledge concept; inferred, not asserted."
+    },
+    {
+      "source": "example_1",
+      "target": "force",
+      "type": "illustrates",
+      "evidence": "Example/concept lexical overlap heuristic."
+    },
+    {
+      "source": "example_3",
+      "target": "force",
+      "type": "illustrates",
+      "evidence": "Example/concept lexical overlap heuristic."
+    },
+    {
+      "source": "example_4",
+      "target": "free_body",
+      "type": "illustrates",
+      "evidence": "Example/concept lexical overlap heuristic."
+    },
+    {
+      "source": "example_5",
+      "target": "acceleration",
+      "type": "illustrates",
+      "evidence": "Example/concept lexical overlap heuristic."
+    }
+  ],
+  "extraction_metadata": {
+    "method": "deterministic_rule_based_v1",
+    "model": "none (offline baseline)",
+    "api_cost_usd": 0.0,
+    "input_words": 2843,
+    "node_cap": 40,
+    "note": "Candidate relations are heuristically inferred and require human validation."
+  }
+}
